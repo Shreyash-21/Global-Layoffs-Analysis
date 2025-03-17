@@ -20,28 +20,17 @@ This project provides an **interactive Tableau dashboard** analyzing **global la
 
 ![Dashboard](Global%20Layoffs%20Analysis%20Dashboard.png)
 
-## 📂 Files Included
 
-| File                                                     | Description                  |
-| -------------------------------------------------------- | ---------------------------- |
-| `Description.docx`                                       | Detailed project description |
-| `Global Layoffs Analysis Dashboard.png`                  | Tableau dashboard snapshot   |
-| `Global Layoffs Analysis Dashboard.twb`                  | Tableau workbook             |
-| `layoffs - cleaned.xlsx`                                 | Processed dataset            |
-| `layoffs - raw.csv`                                      | Raw dataset                  |
-| `Tableau Public - Global Layoffs Analysis Dashboard.mp4` | Video walkthrough            |
 
 ## 📌 Conclusion
 
 This dashboard provides insights into **economic shifts, industry trends, and workforce reductions** to help businesses and policymakers **navigate challenges and workforce planning**.
 
-## 🖥 How to Use
-
-1. Open `Global Layoffs Analysis Dashboard.twb` in Tableau.
-2. Explore the **interactive filters** by industry, company, and country.
-3. Analyze **trends and insights** for better decision-making.
+🚀 Connect with Me  
+🔗 LinkedIn:  https://www.linkedin.com/in/shreyash-pathak-canada/
+📧 Email: sreyashpathak07@gmail.com
 
 ---
 
 🚀 **Developed by Shreyash Pathak**  
-📅 **Date:** 2025
+📅 **Date:** February 2025
