@@ -16,9 +16,9 @@ This project provides an **interactive Tableau dashboard** analyzing **global la
 - **Most Affected Companies:** Intel, Tesla, and Google saw major job cuts.
 - **Geographical Impact:** U.S. had the highest layoffs (407K+), followed by India, Germany, and the UK.
 
-- ●	Analyzed 50K+ layoff records using Advanced Excel (pivot tables, filters), boosting processing speed by 30%.
-- ●	Created 4+ Tableau dashboards to visualize layoffs by year, sector, and country, accelerating insights by 20%.
-- ●	Identified 263K+ layoffs in 2023 (peak year), 407K+ in the U.S., with 50%+ from the tech sector.
+- 	Analyzed 50K+ layoff records using Advanced Excel (pivot tables, filters), boosting processing speed by 30%.
+- 	Created 4+ Tableau dashboards to visualize layoffs by year, sector, and country, accelerating insights by 20%.
+- 	Identified 263K+ layoffs in 2023 (peak year), 407K+ in the U.S., with 50%+ from the tech sector.
 
 
 ## 📷 Screenshots
